@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,the 1,folklore,Taylor Swift,2020-07-24,210251,74,0.777,0.757,0.357,7.28e-06,0.108,-6.942,0.0522,139.883,4
+1,cardigan,folklore,Taylor Swift,2020-07-24,239560,78,0.613,0.537,0.581,0.000345,0.25,-8.588,0.0424,130.033,4
+2,the last great american dynasty,folklore,Taylor Swift,2020-07-24,230999,69,0.686,0.467,0.662,0.0023,0.109,-8.505,0.0413,147.922,4
+3,exile (feat. Bon Iver),folklore,Taylor Swift,2020-07-24,285634,79,0.298,0.778,0.38,5.62e-05,0.11,-8.426,0.0287,75.602,4
+4,my tears ricochet,folklore,Taylor Swift,2020-07-24,255893,73,0.456,0.806,0.263,0.0,0.0749,-10.63,0.0332,129.86,4
+5,mirrorball,folklore,Taylor Swift,2020-07-24,208977,71,0.553,0.687,0.413,2.33e-06,0.0594,-10.037,0.0334,110.107,4
+6,seven,folklore,Taylor Swift,2020-07-24,208906,69,0.596,0.9,0.488,2.7e-05,0.091,-10.769,0.0274,94.926,4
+7,august,folklore,Taylor Swift,2020-07-24,261922,79,0.532,0.538,0.623,7.28e-05,0.0925,-9.208,0.0331,89.937,4
+8,this is me trying,folklore,Taylor Swift,2020-07-24,195097,72,0.515,0.314,0.476,4.74e-05,0.171,-9.843,0.0328,135.886,4
+9,illicit affairs,folklore,Taylor Swift,2020-07-24,190898,71,0.559,0.881,0.31,0.0,0.106,-10.445,0.0338,119.845,4
+10,invisible string,folklore,Taylor Swift,2020-07-24,252880,70,0.653,0.838,0.452,7.73e-05,0.108,-11.143,0.055,83.433,4
+11,mad woman,folklore,Taylor Swift,2020-07-24,237258,65,0.592,0.655,0.699,1.68e-05,0.114,-8.995,0.0471,141.916,4
+12,epiphany,folklore,Taylor Swift,2020-07-24,289749,64,0.354,0.731,0.267,0.000402,0.0858,-13.69,0.0281,94.219,4
+13,betty,folklore,Taylor Swift,2020-07-24,294521,71,0.593,0.6,0.377,0.0,0.0976,-8.761,0.0253,95.939,4
+14,peace,folklore,Taylor Swift,2020-07-24,234000,65,0.647,0.918,0.272,1.73e-05,0.0918,-12.906,0.0916,150.044,4
+15,hoax,folklore,Taylor Swift,2020-07-24,220042,65,0.662,0.966,0.181,3.86e-06,0.133,-15.065,0.0415,118.819,4
+16,I Forgot That You Existed,Lover,Taylor Swift,2019-08-23,170640,72,0.664,0.298,0.316,2.03e-06,0.0812,-10.345,0.519,92.875,4
+17,Cruel Summer,Lover,Taylor Swift,2019-08-23,178426,84,0.552,0.117,0.702,2.06e-05,0.105,-5.707,0.157,169.994,4
+18,Lover,Lover,Taylor Swift,2019-08-23,221306,84,0.359,0.492,0.543,1.58e-05,0.118,-7.582,0.0919,68.534,4
+19,The Man,Lover,Taylor Swift,2019-08-23,190360,79,0.777,0.0767,0.658,0.0,0.0901,-5.191,0.054,110.048,4
+20,The Archer,Lover,Taylor Swift,2019-08-23,211240,70,0.292,0.12,0.574,0.00569,0.0663,-9.375,0.0401,124.344,4
+21,I Think He Knows,Lover,Taylor Swift,2019-08-23,173386,71,0.897,0.00889,0.366,0.000353,0.0715,-8.029,0.0569,100.003,4
+22,Miss Americana & The Heartbreak Prince,Lover,Taylor Swift,2019-08-23,234146,70,0.662,0.028,0.747,0.00615,0.138,-6.926,0.0736,150.088,4
+23,Paper Rings,Lover,Taylor Swift,2019-08-23,222400,82,0.811,0.0129,0.719,1.36e-05,0.0742,-6.553,0.0497,103.979,4
+24,Cornelia Street,Lover,Taylor Swift,2019-08-23,287266,72,0.824,0.781,0.624,0.000189,0.1,-9.728,0.0827,102.012,4
+25,Death By A Thousand Cuts,Lover,Taylor Swift,2019-08-23,198533,71,0.712,0.454,0.732,0.0,0.319,-6.754,0.0629,94.071,4
+26,London Boy,Lover,Taylor Swift,2019-08-23,190240,74,0.695,0.0246,0.71,0.000104,0.133,-6.639,0.05,157.925,4
+27,Soon You’ll Get Better (feat. The Chicks),Lover,Taylor Swift,2019-08-23,201586,65,0.433,0.907,0.182,0.0,0.123,-12.566,0.0641,207.476,4
+28,False God,Lover,Taylor Swift,2019-08-23,200306,72,0.739,0.736,0.32,0.000147,0.111,-10.862,0.239,79.97,4
+29,You Need To Calm Down,Lover,Taylor Swift,2019-08-23,171360,77,0.771,0.00929,0.671,0.0,0.0637,-5.617,0.0553,85.026,4
+30,Afterglow,Lover,Taylor Swift,2019-08-23,223293,75,0.756,0.13,0.449,0.0,0.114,-8.746,0.0344,111.011,4
+31,ME! (feat. Brendon Urie of Panic! At The Disco),Lover,Taylor Swift,2019-08-23,193000,77,0.61,0.033,0.83,0.0,0.118,-4.105,0.0571,182.162,4
+32,It’s Nice To Have A Friend,Lover,Taylor Swift,2019-08-23,150440,65,0.737,0.971,0.175,0.000337,0.171,-9.912,0.0401,70.008,4
+33,Daylight,Lover,Taylor Swift,2019-08-23,293453,71,0.557,0.808,0.496,0.000173,0.0772,-9.602,0.0563,149.983,4
+34,Tim McGraw,Taylor Swift,Taylor Swift,2006-10-24,232106,50,0.58,0.575,0.491,0.0,0.121,-6.462,0.0251,76.009,4
+35,Picture To Burn,Taylor Swift,Taylor Swift,2006-10-24,173066,57,0.658,0.173,0.877,0.0,0.0962,-2.098,0.0323,105.586,4
+36,Teardrops On My Guitar - Radio Single Remix,Taylor Swift,Taylor Swift,2006-10-24,203040,58,0.621,0.288,0.417,0.0,0.119,-6.941,0.0231,99.953,4
+37,A Place in this World,Taylor Swift,Taylor Swift,2006-10-24,199200,50,0.576,0.051,0.777,0.0,0.32,-2.881,0.0324,115.028,4
+38,Cold As You,Taylor Swift,Taylor Swift,2006-10-24,239013,52,0.418,0.217,0.482,0.0,0.123,-5.769,0.0266,175.558,4
+39,The Outside,Taylor Swift,Taylor Swift,2006-10-24,207106,49,0.589,0.00491,0.805,0.0,0.24,-4.055,0.0293,112.982,4
+40,Tied Together with a Smile,Taylor Swift,Taylor Swift,2006-10-24,248106,48,0.479,0.525,0.578,0.0,0.0841,-4.963,0.0294,146.165,4
+41,Stay Beautiful,Taylor Swift,Taylor Swift,2006-10-24,236053,49,0.594,0.0868,0.629,0.0,0.137,-4.919,0.0246,131.597,4
+42,Should've Said No,Taylor Swift,Taylor Swift,2006-10-24,242200,55,0.476,0.0103,0.777,0.0,0.196,-3.771,0.0289,167.964,4
+43,Mary's Song (Oh My My My),Taylor Swift,Taylor Swift,2006-10-24,213080,51,0.403,0.0177,0.627,0.0,0.182,-5.28,0.0292,74.9,4
+44,Our Song,Taylor Swift,Taylor Swift,2006-10-24,201106,58,0.668,0.111,0.672,0.0,0.329,-4.931,0.0303,89.011,4
+45,I'm Only Me When I'm With You,Taylor Swift,Taylor Swift,2006-10-24,213053,52,0.563,0.00452,0.934,0.000807,0.103,-3.629,0.0646,143.964,4
+46,Invisible,Taylor Swift,Taylor Swift,2006-10-24,203226,49,0.612,0.637,0.394,0.0,0.147,-5.723,0.0243,96.001,4
+47,A Perfectly Good Heart,Taylor Swift,Taylor Swift,2006-10-24,220146,48,0.483,0.00349,0.751,0.0,0.128,-5.726,0.0365,156.092,4
+48,Teardrops on My Guitar - Pop Version,Taylor Swift,Taylor Swift,2006-10-24,179066,49,0.459,0.0402,0.753,0.0,0.0863,-3.827,0.0537,199.997,4
+49,State Of Grace (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,295413,69,0.594,0.000328,0.713,0.0,0.114,-5.314,0.0503,129.958,4
+50,Red (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,223093,75,0.516,0.00108,0.777,1.62e-06,0.0761,-4.908,0.0375,125.047,4
+51,Treacherous (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,242720,68,0.645,0.0344,0.593,0.000127,0.13,-6.506,0.0288,109.984,4
+52,I Knew You Were Trouble (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,219760,73,0.584,0.0129,0.557,0.0,0.0576,-6.371,0.0342,154.008,4
+53,All Too Well (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,329160,74,0.44,0.0171,0.528,0.00203,0.234,-7.809,0.0317,185.972,4
+54,22 (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,230960,72,0.642,0.000443,0.695,1.02e-05,0.0753,-5.62,0.0281,103.984,4
+55,I Almost Do (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,244586,67,0.511,0.0167,0.559,0.0,0.113,-6.587,0.0264,145.88,4
+56,We Are Never Ever Getting Back Together (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,193146,73,0.567,0.0317,0.686,1.86e-06,0.0732,-6.139,0.175,172.014,4
+57,Stay Stay Stay (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,205786,67,0.693,0.0848,0.681,0.0,0.0768,-7.039,0.025,100.02,4
+58,The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version),Red (Taylor's Version),Taylor Swift,2021-11-12,299080,68,0.502,0.0399,0.534,0.0,0.0977,-5.954,0.0278,94.05,4
+59,Sad Beautiful Tragic (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,284773,66,0.601,0.622,0.406,9.19e-05,0.133,-11.827,0.0275,130.059,3
+60,The Lucky One (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,240466,66,0.686,0.066,0.571,0.0,0.0608,-7.138,0.05,117.889,4
+61,Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version),Red (Taylor's Version),Taylor Swift,2021-11-12,245426,70,0.498,0.271,0.61,0.0,0.223,-5.098,0.0363,79.918,4
+62,Starlight (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,220413,65,0.628,0.00324,0.685,0.0,0.18,-5.864,0.0358,126.014,4
+63,Begin Again (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,238866,67,0.519,0.075,0.527,0.0,0.132,-7.673,0.0274,78.915,4
+64,The Moment I Knew (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,285280,65,0.636,0.0494,0.402,0.0,0.107,-7.855,0.031,125.952,4
+65,Come Back...Be Here (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,223333,70,0.46,0.0158,0.632,0.0,0.0822,-6.031,0.0302,79.846,4
+66,Girl At Home (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,220520,63,0.691,0.00955,0.736,1.88e-05,0.101,-6.974,0.0326,125.089,4
+67,State Of Grace (Acoustic Version) (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,321640,63,0.445,0.663,0.131,1.57e-06,0.108,-13.778,0.0564,208.918,3
+68,Ronan (Taylor's Version),Red (Taylor's Version),Taylor Swift,2021-11-12,264253,60,0.623,0.661,0.279,0.0,0.193,-10.802,0.031,116.04,4
+69,Better Man (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,297013,69,0.473,0.214,0.579,0.0,0.0877,-5.824,0.0384,73.942,4
+70,Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,258812,74,0.606,0.817,0.377,0.0,0.154,-9.455,0.0275,101.96,4
+71,Babe (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,224240,70,0.584,0.0538,0.743,2.83e-06,0.121,-7.075,0.0931,167.844,4
+72,Message In A Bottle (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,225960,75,0.622,0.00188,0.791,3.72e-06,0.083,-6.106,0.0535,115.915,4
+73,I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,285106,75,0.391,0.167,0.715,0.0,0.183,-4.516,0.0495,149.654,3
+74,Forever Winter (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,263533,65,0.611,0.256,0.552,0.0,0.134,-5.828,0.031,116.012,4
+75,Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,240226,73,0.61,0.817,0.488,0.0,0.312,-6.918,0.0293,125.039,4
+76,The Very First Night (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,200280,73,0.678,0.00115,0.733,0.0,0.104,-5.025,0.0281,121.009,4
+77,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Red (Taylor's Version),Taylor Swift,2021-11-12,613026,84,0.631,0.274,0.518,0.0,0.088,-8.771,0.0303,93.023,4
+78,Fearless (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,241591,70,0.569,0.0122,0.741,0.0,0.333,-4.963,0.0282,100.118,4
+79,Fifteen (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,294419,66,0.559,0.116,0.646,0.0,0.32,-4.61,0.0272,95.466,4
+80,Love Story (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,235766,75,0.627,0.13,0.792,3.97e-06,0.0845,-4.311,0.031,119.054,4
+81,Hey Stephen (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,254254,65,0.788,0.106,0.571,0.0,0.0934,-6.135,0.0296,115.99,4
+82,White Horse (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,234515,65,0.423,0.369,0.517,0.0,0.177,-7.377,0.0486,185.262,4
+83,You Belong With Me (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,231124,78,0.632,0.0623,0.773,0.0,0.0885,-4.856,0.0346,130.033,4
+84,Breathe (feat. Colbie Caillat) (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,263377,63,0.506,0.156,0.626,0.0,0.228,-6.066,0.0287,148.035,4
+85,Tell Me Why (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,200575,61,0.578,0.0222,0.909,0.0,0.333,-3.669,0.0628,100.023,4
+86,You’re Not Sorry (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,261842,63,0.506,0.0538,0.444,0.0,0.123,-4.99,0.0285,133.873,4
+87,The Way I Loved You (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,243136,80,0.402,0.0033,0.732,0.0,0.108,-4.665,0.0484,161.032,4
+88,Forever & Always (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,225328,67,0.598,0.0231,0.821,0.0,0.143,-4.433,0.0447,128.03,4
+89,The Best Day (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,245290,60,0.642,0.488,0.576,0.0,0.159,-8.524,0.0282,125.0,4
+90,Change (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,279359,60,0.499,0.000191,0.815,0.0,0.181,-4.063,0.0341,95.999,4
+91,Untouchable (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,312107,61,0.393,0.0181,0.531,0.0,0.169,-6.112,0.0329,200.391,4
+92,Forever & Always (Piano Version) (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,267833,61,0.546,0.819,0.273,0.0,0.137,-9.208,0.0308,118.753,4
+93,Come In With The Rain (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,237338,59,0.476,0.0406,0.564,0.0,0.102,-5.677,0.0269,143.929,4
+94,Superstar (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,263865,58,0.454,0.157,0.555,0.0,0.343,-6.69,0.0283,171.862,4
+95,The Other Side Of The Door (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,238443,64,0.432,0.0279,0.873,0.0,0.167,-4.367,0.0577,163.936,4
+96,Today Was A Fairytale (Taylor’s Version),Fearless (Taylor's Version),Taylor Swift,2021-04-09,241822,61,0.482,0.0135,0.779,0.0,0.296,-5.025,0.0409,158.162,4
+97,You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),Taylor Swift,2021-04-09,220839,61,0.599,0.816,0.494,0.0,0.101,-7.61,0.0372,142.893,4
+98,Mr. Perfectly Fine (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),Taylor Swift,2021-04-09,277591,68,0.66,0.162,0.817,0.0,0.0667,-6.269,0.0521,135.942,4
+99,We Were Happy (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),Taylor Swift,2021-04-09,244236,62,0.609,0.849,0.373,0.0,0.0779,-8.819,0.0263,106.007,4
